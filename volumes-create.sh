@@ -1,0 +1,14 @@
+mkdir -p zbx_env/usr/lib/zabbix/alertscripts
+mkdir -p zbx_env/usr/lib/zabbix/externalscripts
+mkdir -p zbx_env/var/lib/zabbix/dbscripts
+mkdir -p zbx_env/var/lib/zabbix/export
+mkdir -p zbx_env/var/lib/zabbix/modules
+mkdir -p zbx_env/var/lib/zabbix/enc
+mkdir -p zbx_env/var/lib/zabbix/ssh_keys
+mkdir -p zbx_env/var/lib/zabbix/mibs
+mkdir -p zbx_env/etc/ssl/nginx
+mkdir -p zbx_env/usr/share/zabbix/modules/
+mkdir -p zbx_env/var/lib/mysql
+mkdir -p zbx_env/etc/zabbix/zabbix_agentd.d
+mkdir -p gf/var/lib/grafana
+mkdir -p gf/var/log/grafana
